@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7DA6505CB3548C4ACB14C638AC53929FA0C55629",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7DA6505CB3548C4ACB14C638AC53929FA0C55629" : 0,
+    "AF70F5CC761A846476A2520A1A61BEB4E215F413" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E19F9174-32E4-4130-872E-D70B4C84D605",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7DA6505CB3548C4ACB14C638AC53929FA0C55629" : "Solarsystem\/",
+    "AF70F5CC761A846476A2520A1A61BEB4E215F413" : "CS6533-NYU\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Solarsystem",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Solarsystem\/Solarsystem.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:nandukalidindi\/Solarsystem.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7DA6505CB3548C4ACB14C638AC53929FA0C55629"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:nandukalidindi\/CS6533-NYU.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AF70F5CC761A846476A2520A1A61BEB4E215F413"
+    }
+  ]
+}
