@@ -3,5 +3,5 @@ An OpenGL project to render our Solar system with Sun and 9 planets (That's righ
 
 DEMO: Includes Arcball and Various post-processing demonstration
 
-![alt tag](https://raw.githubusercontent.com/nandukalidindi/Solarsystem/master/Solarsytem.gif)
+![alt text](https://github.com/nandukalidindi/Solarsystem/blob/master/Solarsystem.gif "Keep revolving!")
 
